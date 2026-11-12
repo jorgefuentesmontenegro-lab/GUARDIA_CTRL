@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.streamlit/secrets.toml
+.strearmlit/secrets.toml
+/conductores.csv
+/conductores.xlsx
+/vehiculos.csv
+/vehiculos.xlsx
+/autorizaciones.csv
+/autorizaciones.xlsx
+/reportes_estado.csv
+/reportes_estado.xlsx

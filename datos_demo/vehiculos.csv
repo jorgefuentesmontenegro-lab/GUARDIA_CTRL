@@ -1,0 +1,3 @@
+id,patente,tipo_vehiculo,marca_modelo,anio,kilometraje_actual,estado_operativo
+1,DEMO-01,Unidad de prueba,Modelo ficticio A,2022,12000,Operativo
+2,TEST-02,Unidad de prueba,Modelo ficticio B,2021,25000,Requiere Mantención

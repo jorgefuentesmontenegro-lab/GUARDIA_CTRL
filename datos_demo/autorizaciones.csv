@@ -1,0 +1,3 @@
+id,patente,rut_conductor,fecha_asignacion,vigente
+1,DEMO-01,RUT-DEMO-01,2026-01-01T00:00:00+00:00,True
+2,TEST-02,RUT-DEMO-02,2026-01-01T00:00:00+00:00,True
